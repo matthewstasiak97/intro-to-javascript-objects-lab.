@@ -266,3 +266,4 @@ Solve Exercise 15 here:
 
 // Exercise 16
 // 1. Log the entire `game` object to the console. Take a moment to review the changes you've made throughout the exercises.
+console.log(game);
